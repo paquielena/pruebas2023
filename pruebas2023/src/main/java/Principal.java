@@ -16,6 +16,7 @@ public class Principal {
     public static void main(String[] args) {
         // TODO code application logic here
         System.out.println("Bienvenidos a mi proyecto para probar Git");
+        System.out.println("Cambiando en los dos documentos");
     }
     
 }
