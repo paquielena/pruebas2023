@@ -10,4 +10,5 @@
  */
 public class Persona {
     private int dni;
+    private int edad;
 }
